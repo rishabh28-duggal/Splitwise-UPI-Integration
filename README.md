@@ -1,4 +1,4 @@
-# Splitwise UPI integration
+# Splitwise UPI Integration
 
 A UI/UX design prototype for a **UPI-based split the bill feature in splitwise**, inspired by Google Pay and Splitwise. This project demonstrates a seamless flow for splitting bills with friends and settling payments via UPI.
 You can view this project by clicking at this community link "https://www.figma.com/design/PiRVnetaOjwBOAWuWhdz8z/Spltwise-UPI-Integration?node-id=0-1&t=F4TcpVT2kvxGX1Im-1"
