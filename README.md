@@ -27,14 +27,13 @@ A UI/UX design prototype for a **UPI-based split-bill feature**, inspired by Goo
 
 ---
 
-## Screenshots
-![Home Screen](screenshots/home.png)  
-![Group Screen](screenshots/group.png)  
-![Settle Up](screenshots/settle_up.png)  
-![Payment Method](screenshots/payment_method.png)  
-![Payment Successful](screenshots/payment_success.png)
+## Screenshots of the project
+![Home Screen](images/Home%20screen.png)  
+![Group Screen](images/Group.png)  
+![Settle Up](images/Settle%20up.png)  
+![Payment Method](images/Payment%20method.png)  
+![Payment Successful](images/Successful.png)
 
-*(Replace above images with your actual Figma exports)*
 
 ---
 
